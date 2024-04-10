@@ -1,0 +1,44 @@
+.about {
+    background-color: #FFFFFF;
+    padding: 100px 0px;
+    text-align: center;
+}
+
+.about-title {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.about-content {
+    font-size: 24px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.services {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.services-title {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.service {
+    padding: 30px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.service h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.service p {
+    font-size: 18px;
+    line-height: 1.6;
+}

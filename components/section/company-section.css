@@ -1,0 +1,38 @@
+.module_image {
+    display: flex;
+    background-color: #48CFD3;
+    height: 500px;
+}
+
+.content {
+    background-color: #FFFFFF;
+    text-align: center;
+    padding: 100px 0px;
+}
+
+.center {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.company-section {
+    background-color: #FFFFFF;
+    text-align: center;
+    padding: 100px 0px;
+}
+
+.company-section-title {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.company-section-content {
+    font-size: 24px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+img {
+    height: 500px;
+    width: 1520px;
+}
